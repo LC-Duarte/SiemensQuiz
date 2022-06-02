@@ -1,0 +1,17 @@
+
+$ bq
+# rel ABC
+# format
+# x
+
+
+$bq
+# rel XYZ
+# re f
+# re l
+
+
+#key 10
+#re k
+#re n
+#re n
